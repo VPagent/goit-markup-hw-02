@@ -153,12 +153,12 @@ ul{
 
 /* PORTFOLIO */
     /* ???? buttons */
-    .services .button{
+    .buttons-list .button{
         background-color: var(--button-portfolio-color);
 
         cursor: pointer;
     }
-    .services .button:hover{
+    .buttons-list .button:hover{
         background-color: var(--hover-color);
         color: #ffffff;
     }
